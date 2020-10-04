@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 king546 number
 this is my project
+=======
+king546
+>>>>>>> parent of 6f00e9d... update project2.txt
